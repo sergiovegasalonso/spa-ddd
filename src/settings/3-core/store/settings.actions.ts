@@ -1,4 +1,4 @@
-import type { Action } from "../../4-domain/types/action"
+import type { Action } from "src/shared/types/action"
 
 const incrementAction: Action = {
     type: '@settings/INCREMENT'
